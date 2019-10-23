@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "25571056309",
+    "firebase_url": "https://patientrecords-408c2.firebaseio.com",
+    "project_id": "patientrecords-408c2",
+    "storage_bucket": "patientrecords-408c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25571056309:android:c12222da941ca3aa01fcfc",
+        "android_client_info": {
+          "package_name": "com.example.login_registrarion_all_info_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25571056309-0nv3b3pndvj2ng504a2gptp1tbnidrrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_registrarion_all_info_firebase",
+            "certificate_hash": "428bddd16471fdfa8e5082f0d7f40d8ddd60fcc0"
+          }
+        },
+        {
+          "client_id": "25571056309-surbgsokncnpfmdabfo6hg9bnftatnli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH4zxjL69taiwcB0KJp0wu_bftQCrlYLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25571056309-surbgsokncnpfmdabfo6hg9bnftatnli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25571056309:android:205dbad0deeca99f01fcfc",
+        "android_client_info": {
+          "package_name": "com.example.student_record_save_in_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25571056309-76mau8avbek7pn6fq41vivug7i7njjss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student_record_save_in_database",
+            "certificate_hash": "428bddd16471fdfa8e5082f0d7f40d8ddd60fcc0"
+          }
+        },
+        {
+          "client_id": "25571056309-surbgsokncnpfmdabfo6hg9bnftatnli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH4zxjL69taiwcB0KJp0wu_bftQCrlYLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25571056309-surbgsokncnpfmdabfo6hg9bnftatnli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
